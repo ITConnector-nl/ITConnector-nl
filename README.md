@@ -10,5 +10,13 @@ We integrate with:
 - MDM (e.g. StiboSystems MasterData)
 - Platforms (Anything with an API basically! e.g. Azure, GS1, Seeburger, EDI Brokers, Transporters)
 
+Some of our customers:
+- MAG45 (Philips spinoff, serving ASML, and other hi-tech companies)
+- Allego (Global supplier of charging infrastructure)
+- AkzoNobel
+- Vion food (Global meat processor)
+- JDB Group
+- WaterNet (dutch govermental body controlling water system in the Netherlands)
+
 # Contact us
 Questions, looking for information? Please email: info@itconnector.nl
