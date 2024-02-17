@@ -10,7 +10,7 @@ We integrate with:
 - MDM (e.g. StiboSystems MasterData)
 - Platforms (Anything with an API basically! e.g. Azure, GS1, Seeburger, EDI Brokers, Transporters)
 
-Some of our customers:
+Some of our integration customers:
 - MAG45 (Philips spinoff, serving ASML, and other hi-tech companies)
 - Allego (Global supplier of charging infrastructure)
 - AkzoNobel
